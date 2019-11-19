@@ -1,0 +1,11 @@
+Solid Box 
+<p style="padding: 10px; color: black; background-color: white; border: black 2px solid">Text</p>
+
+Dotted Box 
+<p style="padding: 10px; color: black; background-color: white; border: black 2px dotted">Text</p>
+
+Solid Box with Centered Text
+<p style="text-align: center; padding: 10px; color: black; background-color: white; border: black 2px solid">Text</p>
+
+Dotted Box with Centered Text
+<p style="text-align: center; padding: 10px; color: black; background-color: white; border: black 2px dotted">Text</p>
